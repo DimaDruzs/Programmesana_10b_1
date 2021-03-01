@@ -3,7 +3,7 @@ Tatjana Grencione
 1 Akimovs Sergejs
 
 2 Druzs Dmitrijs
-print(7+7+7)
+print(7+7+3)
 3 Fedaks Alekss
 
 4 Gaile Aïona
